@@ -1,8 +1,7 @@
 # Bank-Marketing-model
 The banks consume a lot of money and time in the marketing campaigns so if there’s a model can predict accurately whether the customer will subscribe or not, then banks will save a lot of effort, money and time as then they can know better what can raise the probability of customer subscription and the campaigns will be more targeted for persons that are more likely to subscribe which can save more and more money and time. 
 
-As a result , this classification model was made to predict whether the client will subscribe for a term deposit or not. The dataset worked at is related with direct marketing campaigns of a Portuguese banking institution. And here is the link of it at kaggle : https://www.kaggle.com/datasets/hariharanpavan/bank-mar
-keting-dataset-analysis-classification .
+As a result , this classification model was made to predict whether the client will subscribe for a term deposit or not. The dataset worked at is related with direct marketing campaigns of a Portuguese banking institution. And here is the link of it at kaggle : https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification .
 
 
 These are information about the features in our dataset :
