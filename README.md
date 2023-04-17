@@ -7,7 +7,7 @@ As a result , this classification model was made to predict whether the client w
 These are information about the features in our dataset :
 ![Screenshot 2023-04-17 172052](https://user-images.githubusercontent.com/107771328/232533389-829142cd-ca1f-471c-884e-0fb33df4778a.jpg)
  
-These are the models which were used individually with their precisions and accuracies for each model and we used voting classifier for some models ( each colored box : yellow , blue , red ) to get the best results : 
+These are the models which were used individually with their precisions and accuracies for each model and different combinations of models were used for voting classifier ( which represents each colored box : yellow , blue , red ) to get the best results : 
 
 ![Screenshot 2023-04-17 173231](https://user-images.githubusercontent.com/107771328/232537359-58746328-f822-4aad-af27-24b2a7b63264.jpg)
 
